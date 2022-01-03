@@ -1,2 +1,2 @@
 # Bistro-Restaurant
-## Demo one page web design project 
+simple responsive onepage web design
